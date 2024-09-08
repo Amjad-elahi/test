@@ -10,7 +10,7 @@ class HomeScreen extends StatelessWidget {
       body: Center(
         child: Column(
           children: [
-            Text("Amjad"),
+            
             Text("yara"),
             Text("yara"),
             Text("yara"),
