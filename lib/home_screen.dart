@@ -6,8 +6,8 @@ class HomeScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(title: Text("data"),),
-      body: Center(
+      appBar: AppBar(title: const Text("data"),),
+      body: const Center(
         child: Column(
           children: [
             Text("Amjad"),
